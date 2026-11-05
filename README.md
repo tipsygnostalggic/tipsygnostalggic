@@ -10,4 +10,4 @@ im heavily into homestuck, but I also dabble into steven universe and other medi
   i make vrchat avatars, specifically homestuck ones. I also adoree roleplaying, occassionally coding, drawing and writing!!!!
 </p>
 
-<img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/4c327bfd1f2014924eabf3b6235287a25d8857dd/roxylalonde.png" width="1500" title="roxy lalonde" alt="roxy lalonde"/>
+<img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/4c327bfd1f2014924eabf3b6235287a25d8857dd/roxylalonde.png" width="1000" title="roxy lalonde" alt="roxy lalonde"/>
