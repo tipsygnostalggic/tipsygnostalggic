@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  shay/roxy || femme boyflux tboy ꫂ᭪݁
+#  shay/roxy || femme boyflux tboy ꫂ᭪݁
 15 , INTP |  derse 
 </p>
 
@@ -16,7 +16,7 @@
     <img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/c01902d6bb2fb4fa9f88118af9007632769356de/tumblr_73b0e23a91e8a3ba4ebafbeb52673bfc_f15e6e21_250.webp" alt="sylph of void">
   </div>
   <div class="column">
-    <img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/51ae5c0bff1761f60cffbed816e14db5d4787709/tumblr_b3e83f4947c7ec421765cd10d39cd066_91c36943_250.webp" alt="tipsyGnostalgic" style="width:100%">
+    <img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/3b9d50a7846f850b68b94098d2c6cf2ad76108a5/roxy.webp" alt="tipsyGnostalgic" style="">
   </div>
 </div>
 
