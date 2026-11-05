@@ -6,4 +6,6 @@
 <p align="center">
 im heavily into homestuck, but I also dabble into steven universe and other medias! check out more info in my linked strawpage!!
   HUGGE roxy lalonde kinnie, she is me and i am her.
+<p align="center">
+  i make vrchat avatars, specifically homestuck ones. I also adoree roleplaying, occassionally coding, drawing and writing!!!!
 </p>
