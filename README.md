@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/aea7f4d6bb0ffdbec2e91c2af68c9f7c2ec610ee/divideraesthetic.png" width="1500" title="Aesthetic Divider" alt="Lace divider with bow"/>
+</p>
 
 <p align="center">
   shay/roxy || femme boyflux tboy ꫂ᭪݁
@@ -10,4 +12,6 @@ im heavily into homestuck, but I also dabble into steven universe and other medi
   i make vrchat avatars, specifically homestuck ones. I also adoree roleplaying, occassionally coding, drawing and writing!!!!
 </p>
 
-<img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/4c327bfd1f2014924eabf3b6235287a25d8857dd/roxylalonde.png" width="1000" title="roxy lalonde" alt="roxy lalonde"/>
+<p align="center">
+<img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/4c327bfd1f2014924eabf3b6235287a25d8857dd/roxylalonde.png" width="700" title="roxy lalonde" alt="roxy lalonde"/>
+</p>
