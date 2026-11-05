@@ -4,7 +4,13 @@
 
 <p align="center">
   shay/roxy || femme boyflux tboy ꫂ᭪݁
-15 , INTP |  derse sylph of void
+15 , INTP |  derse 
+</p>
+
+<p align="center">
+<img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/23a643b4596a3caba7d0c281af8cb6ca79c4c6e5/tumblr_809fed5c760ba5aecceca3aacaad0ea5_0609c883_250.webp" title="wonk" alt="wonk"/>
+</p>
+
 <p align="center">
 im heavily into homestuck, but I also dabble into steven universe and other medias! check out more info in my linked strawpage!!
   HUGGE roxy lalonde kinnie, she is me and i am her.
