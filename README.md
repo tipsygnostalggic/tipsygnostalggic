@@ -4,5 +4,5 @@
   shay || femme boyflux tboy ꫂ᭪݁
 15 , INTP |  derse sylph of void
 <p align="center">
-im heavily into homestuck, but I also dabble into steven universe and other medias! check out more info [here](https://wizzardvoid.straw.page)‎
+im heavily into homestuck, but I also dabble into steven universe and other medias! check out more info [here](https://wizzardvoid.straw.page/)‎
 </p>
