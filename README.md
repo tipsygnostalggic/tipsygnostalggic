@@ -8,22 +8,6 @@
 </p>
 
 <p align="center">
-<div id="banner">
-    <div class="inline-block">
-        <img src ="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/23a643b4596a3caba7d0c281af8cb6ca79c4c6e5/tumblr_809fed5c760ba5aecceca3aacaad0ea5_0609c883_250.webp">
-    </div>
-
-<div class="inline-block">
-        <img src ="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/c01902d6bb2fb4fa9f88118af9007632769356de/tumblr_73b0e23a91e8a3ba4ebafbeb52673bfc_f15e6e21_250.webp">
-    </div>
-
-<div class="inline-block">
-        <img src ="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/3b9d50a7846f850b68b94098d2c6cf2ad76108a5/roxy.webp" alt="tipsyGnostalgic">
-    </div>
-</div>
-</p>
-
-<p align="center">
 im heavily into homestuck, but I also dabble into steven universe and other medias! check out more info in my linked strawpage!!
   HUGGE roxy lalonde kinnie, she is me and i am her.
 <p align="center">
