@@ -2,13 +2,15 @@
 <img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/d666dc801b5bec5d05bcd7065d738557bc938101/divider.png" width="1600" title="Aesthetic Divider" alt="Lace divider with bow"/>
 </p>
 
-<p align="left">
+<p align="center">
   shay/roxy || femme boyflux tboy ꫂ᭪݁
 15 , INTP |  derse 
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/23a643b4596a3caba7d0c281af8cb6ca79c4c6e5/tumblr_809fed5c760ba5aecceca3aacaad0ea5_0609c883_250.webp" title="wonk" alt="wonk"/>
+<p align="center">
+<img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/c01902d6bb2fb4fa9f88118af9007632769356de/tumblr_73b0e23a91e8a3ba4ebafbeb52673bfc_f15e6e21_250.webp" title="wonk" alt="wonk"/>
 </p>
 
 <p align="center">
