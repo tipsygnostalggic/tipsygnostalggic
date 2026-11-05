@@ -13,6 +13,18 @@
 <img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/c01902d6bb2fb4fa9f88118af9007632769356de/tumblr_73b0e23a91e8a3ba4ebafbeb52673bfc_f15e6e21_250.webp" title="wonk" alt="wonk"/>
 </p>
 
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/23a643b4596a3caba7d0c281af8cb6ca79c4c6e5/tumblr_809fed5c760ba5aecceca3aacaad0ea5_0609c883_250.webp" alt="Snow">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 <p align="center">
 im heavily into homestuck, but I also dabble into steven universe and other medias! check out more info in my linked strawpage!!
   HUGGE roxy lalonde kinnie, she is me and i am her.
