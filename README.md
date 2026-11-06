@@ -1,9 +1,11 @@
 <p align="center">
 <img src="https://github.com/tipsygnostalggic/tipsygnostalggic/blob/d666dc801b5bec5d05bcd7065d738557bc938101/divider.png" width="1600" title="Aesthetic Divider" alt="Lace divider with bow"/>
 </p>
-
 <p align="center">
   SIGN MY ATA!!
+</p>
+<p align="center">
+  
 #  shay/roxy || femme boyflux tboy ꫂ᭪݁
 15 , INTP |  derse 
 </p>
